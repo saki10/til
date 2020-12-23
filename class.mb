@@ -1,0 +1,27 @@
+
+##Classとは
+
+設計図のような物を「class」と言う
+
+・配列にはsizeを使う事が可能
+　　sizeには設計図がある為、使う事が可能。
+   size,pushを使用する事が可能
+   データーを複数入れて、情報を取り出す事が可能。
+   classからインスタンスを作る
+   Arryの意味は配列
+   Arry.newで配列を作る
+   
+   String Class
+   "カネダ""お肉食べたい！！！"
+  
+  IntegerClass,FloatClass
+   123, 3.14
+  
+  Boolean Class
+  true,false
+   
+  carry["玉ねぎ","人参","お肉"]
+  carry.size
+  
+  nikujaga["お肉","人参","じゃがいも","玉ねぎ"]
+  nikujaga.size
